@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Ksenia Dominova</title>
+<title>Portfolio</title>
 <link href="_css/reset.css" rel="stylesheet" type="text/css" />
 <link href="_css/main.css" rel="stylesheet" type="text/css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
