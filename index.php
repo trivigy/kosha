@@ -12,7 +12,7 @@
 <script>
 $(document).ready(function () {
 	$('#wrapper').tubular({
-		videoId: 'uVsP-jGATBc',
+		videoId: 'f-5McdCoY1Q',
 		shieldImage: "url(../_img/overlay.png)"
 	});
 	
@@ -57,17 +57,20 @@ $(document).ready(function () {
 		<img src="_img/logo.png" width="600" height="600"  alt="Logo Image"/>
 	</div>
 	<div class="transparent"> </div>
-	<div class="opaque" id="about">
+	<div class="opaque" id="about" style="color: #FFF; text-align: center;">
+		<h1 style="font-size: 100px; position: relative; top: 50%; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);">CONTENT</h1>
 	</div>
 	<div class="transparent" id="social">
-		<span><a href="https://www.facebook.com/kse.sha.1" target="_blank"><span class="icon-facebook-circled social-icon"></span></a></span>
-		<span><a href="www.linkedin.com/pub/ksenia-dominova/21/618/b45" target="_blank"><span class="icon-linkedin-circled social-icon"></span></a></span>
-		<span><a href="https://twitter.com/Kseshka" target="_blank"><span class="icon-twitter-circled social-icon"></span></a></span>
+		<span><a href="" target="_blank"><span class="icon-facebook-circled social-icon"></span></a></span>
+		<span><a href="" target="_blank"><span class="icon-linkedin-circled social-icon"></span></a></span>
+		<span><a href="" target="_blank"><span class="icon-twitter-circled social-icon"></span></a></span>
 		</div>
 	<div class="transparent" id="equalizer">
 		<div id="audioWrapper"></div>
 	</div>
-	<div class="opaque" id="extra"> </div>
+	<div class="opaque" id="extra" style="color: #FFF; text-align: center;">
+		<h1 style="font-size: 100px; position: relative; top: 50%; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%);">CONTENT</h1>
+	</div>
 	<div class="transparent temp"> </div>
 </div>
 </body>
