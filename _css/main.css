@@ -1,0 +1,75 @@
+@charset "utf-8";
+@import url("../_fonts/fontello/fontello.css");
+html, body {
+	font-size: 15px;
+	color: #FFF;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+a {
+	color: rgba(255,255,255,0.65);
+	text-decoration: none;
+	-webkit-transition: color 0.25s linear;
+}
+a:hover {
+	color: rgb(255,255,255);
+}
+.transparent {
+	width: 100%;
+}
+.opaque {
+	background-color: rgb(21,21,21);
+	width: 100%;
+}
+.social-icon {
+	font-size: 70px;
+}
+.temp {
+	height: 300px;
+}
+#logo {
+	position: absolute;
+	top: 2em;
+	left: 0;
+	right: 0;
+	width: 40em;
+	margin: auto;
+}
+#equalizer {
+	height: 300px;
+}
+#audioWrapper {
+	width: 1001px;
+	height: 250px;
+	margin: 0 auto;
+}
+#social {
+	height: 150px;
+	line-height: 150px;
+	text-align: center;
+	letter-spacing: 50px;
+	vertical-align: middle;
+}
+#about {
+	height: 500px;
+}
+#about-cutout {
+	width: 151px;
+}
+#extra {
+	height: 500px;
+}
+
+@media screen and (min-width:1200px) {
+#logo {
+	top: 3em;
+}
+}
+
+@media screen and (min-width:1500px) {
+#logo {
+	top: 7em;
+}
+}
