@@ -13,7 +13,7 @@
 $(document).ready(function () {
 	$('#wrapper').tubular({
 		videoId: 'f-5McdCoY1Q',
-		shieldImage: "url(../_img/overlay.png)"
+		shieldImage: "url(_img/overlay.png)"
 	});
 	
 	$(window).ready(function(e) {
