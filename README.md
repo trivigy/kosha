@@ -1,5 +1,5 @@
-portfolio
+kosha
 =========
 
 A portfolio website I spent some time building a while back.
-[Example](http://dev.kovits.com/portfolio)
+[Example](http://dev.kovits.com/kosha)
